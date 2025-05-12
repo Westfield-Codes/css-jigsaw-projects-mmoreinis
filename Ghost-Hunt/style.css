@@ -28,16 +28,17 @@ html{
 
 /* ghosts */
 
-    /* people */
-    #stardew1, #stardew2, #stardew3, #stardew4, #stardew5 {
-      visibility:visible;
-    
-    }
-    /* ghosts */
-    #ghost1, #ghost2, #ghost3, #ghost4, #ghost5 {
-      opacity:0.1;
+  /* people */
+  #stardew1, #stardew2, #stardew3, #stardew4, #stardew5 {
+    visibility:visible;
+    opacity:1;
   
-    }
+  }
+  /* ghosts */
+  #ghost1, #ghost2, #ghost3, #ghost4, #ghost5 {
+    opacity:0.1;
+
+  }
     
   #ghost1 {
     top: 150px;
